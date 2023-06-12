@@ -1,0 +1,60 @@
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.exe
+d:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.deps.json
+d:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.runtimeconfig.json
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.pdb
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.AssemblyReference.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfoInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfo.cs
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.CoreCompileInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\refint\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.pdb
+d:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.genruntimeconfig.cache
+d:\Curso Unicamp\Tecnologias Microsoft\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\ref\Jewel Collector.dll
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.exe
+c:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.deps.json
+c:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.runtimeconfig.json
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.dll
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.pdb
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.AssemblyReference.cache
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfoInputs.cache
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfo.cs
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.CoreCompileInputs.cache
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.dll
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\refint\Jewel Collector.dll
+C:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.pdb
+c:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.genruntimeconfig.cache
+c:\Users\msft81\Documents\Projeto\csharp_unicamp\Jewel_Collector\obj\Debug\net6.0\ref\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.exe
+d:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.deps.json
+d:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.runtimeconfig.json
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.pdb
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.AssemblyReference.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfoInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfo.cs
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.CoreCompileInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\refint\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.pdb
+d:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.genruntimeconfig.cache
+d:\Curso Unicamp\Tecnologias Microsoft\C#\C# Projeto Final\Jewel_Collector\obj\Debug\net6.0\ref\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.exe
+d:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.deps.json
+d:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.runtimeconfig.json
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\bin\Debug\net6.0\Jewel Collector.pdb
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.AssemblyReference.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfoInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.AssemblyInfo.cs
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.csproj.CoreCompileInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\refint\Jewel Collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.pdb
+d:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\Jewel Collector.genruntimeconfig.cache
+d:\Curso Unicamp\Tecnologias Microsoft\C#\PROJETO_FINAL\projeto_final_csharp_msft\Jewel_Collector\obj\Debug\net6.0\ref\Jewel Collector.dll
